@@ -1,0 +1,4 @@
+rootProject.name='PatternUI'
+include ':app'
+include ':base'
+include ':wxOptionsMenu'

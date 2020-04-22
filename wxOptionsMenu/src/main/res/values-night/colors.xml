@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="wx_options_menu_bg_popup_window" type="color">#ff606060</item>
+    <item name="wx_options_menu_bg_popup_window_divider" type="color">#ff707070</item>
+
+</resources>

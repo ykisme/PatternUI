@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PatternUI</string>
+    <string name="label_wx_options_menu_activity">微信</string>
+</resources>
